@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tareas-react-app/static/css/main.7c5ecd73.chunk.css",
+    "main.js": "/tareas-react-app/static/js/main.f4960848.chunk.js",
+    "main.js.map": "/tareas-react-app/static/js/main.f4960848.chunk.js.map",
+    "runtime~main.js": "/tareas-react-app/static/js/runtime~main.1d208bf8.js",
+    "runtime~main.js.map": "/tareas-react-app/static/js/runtime~main.1d208bf8.js.map",
+    "static/js/2.853cd350.chunk.js": "/tareas-react-app/static/js/2.853cd350.chunk.js",
+    "static/js/2.853cd350.chunk.js.map": "/tareas-react-app/static/js/2.853cd350.chunk.js.map",
+    "index.html": "/tareas-react-app/index.html",
+    "precache-manifest.a50aaea2081cb9b6bcb8c527b5e63688.js": "/tareas-react-app/precache-manifest.a50aaea2081cb9b6bcb8c527b5e63688.js",
+    "service-worker.js": "/tareas-react-app/service-worker.js",
+    "static/css/main.7c5ecd73.chunk.css.map": "/tareas-react-app/static/css/main.7c5ecd73.chunk.css.map"
+  }
+}
